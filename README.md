@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I’m Jimmy Chege 👋
 
-<!--
-**jimmy-ai2/jimmy-ai2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I’m a **Computer Science student and an Aspiring Full stack Developer** with a growing interest in **software development, data analysis, and data visualization**.
 
-Here are some ideas to get you started:
+I’m currently building my skills through coursework, hands-on projects, and continuous learning. My focus is on strengthening my programming foundation, solving problems through code, and creating projects that reflect steady growth over time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Exploring
+- Frontend Development
+- Backend Development 
+- Data Structures & Algorithms
+- Data Analysis
+
+## Tech Stack
+- **Languages:** Python, HTML, CSS, JavaScript 
+- **Tools:** VS Code, Git, GitHub
+- **Learning:** Data Structures & Algorithms, Problem Solving, Frontend Development, Backend Development 
+
+## Current Focus
+- Improving my programming fundamentals
+- Building beginner-to-intermediate projects
+- Practicing cleaner and more structured code
+- Growing consistently through learning and project work
+
+## Connect With Me
+- Email: [jithecaptain@gmail.com](mailto:jithecaptain@gmail.com)
+
+*“Always learning, always building, one project at a time.”*
