@@ -1,7 +1,7 @@
 # Hi, I’m Jimmy Chege 👋
 
 ## About Me
-I’m a **Computer Science student and an Aspiring Full Stack Developer** with a growing interest in **software development, data analysis, and data visualization**.
+I’m a **Aspiring Full Stack Developer** with a growing interest in **software development, and data analysis**.
 
 I’m currently building my skills through coursework, hands-on projects, and continuous learning. My focus is on strengthening my programming foundation, solving problems through code, and creating projects that reflect steady growth over time.
 
