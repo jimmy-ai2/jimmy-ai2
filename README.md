@@ -1,4 +1,4 @@
-# Hi, I’m Jimmy Chege 👋
+# Hi, I’m Jimmy Gichui 👋
 
 ## About Me
 I’m an **Aspiring Full Stack Developer** with a growing interest in **software development, and data analysis**.
