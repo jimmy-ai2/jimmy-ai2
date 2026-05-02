@@ -43,5 +43,3 @@ I am currently available for freelance projects and technical partnerships.
 *   **Email:** [Your Professional Email]
 *   **LinkedIn:** [Link to your LinkedIn]
 
----
-![Jimmy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jimmy-ai2&show_icons=true&theme=tokyonight)
