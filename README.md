@@ -39,7 +39,6 @@ A simple and responsive web app to help users monitor their financial activity b
 I am currently available for freelance projects and technical partnerships.
 
 *   **Instagram:** [@jichegi.dev](https://www.instagram.com/jichegi.dev)
-*   **Portfolio:** [Link to your site]
-*   **Email:** [Your Professional Email]
-*   **LinkedIn:** [Link to your LinkedIn]
+*   **Portfolio:** [My Portfolio](https://app.netlify.com/projects/jimmydev-portfolio/overview)
+*   **Email:** jithecaptain@gmail.com
 
