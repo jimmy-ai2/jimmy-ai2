@@ -1,21 +1,47 @@
-# Hi, I’m Jimmy Gichui 👋
+# Hi, I’m Jimmy 👋 
 
-## About Me
-I’m an **Aspiring Full Stack Developer** with a growing interest in **software development, and data analysis**.
+**Full-Stack Developer | Software Solutions Architect**
 
-I’m currently building my skills through coursework, hands-on projects, and continuous learning. My focus is on strengthening my programming foundation, solving problems through code, and creating projects that reflect steady growth over time.
+I specialize in building scalable web applications and automating business workflows. My focus is on turning complex technical requirements into clean, user-centric digital products. Whether it's a custom management system or a data-driven web app, I build with performance and growth in mind.
 
-## Currently Exploring
-- Frontend Development
-- Backend Development 
-- Data Structures & Algorithms
-- Data Analysis
+---
 
-## Tech Stack
-- **Languages:** Python, HTML, CSS, JavaScript 
-- **Tools:** VS Code, Git, GitHub
+### Technical Expertise
 
-## Connect With Me
-- Email: [jithecaptain@gmail.com](mailto:jithecaptain@gmail.com)
+*   **Frontend Design:** Responsive Web Design, JavaScript, CSS/HTML.
+*   **Systems & Infrastructure:** Git/GitHub, Project Management (Markdown).
+*   **Key Skills:** Data Structures, System Optimization, Clean Code Principles.
 
-*“Always learning, always building, one project at a time.”*
+---
+
+### Featured Projects
+
+#### [Password Generator](https://github.com/jimmy-ai2/password-generator)
+A simple and responsive web app for generating strong and secure passwords to help users improve their online security.
+*   **Impact:** Helps users create strong, secure passwords to reduce the risk of account breaches.
+*   **Stack:** HTML, JavaScript, CSS.
+
+#### [Expense Tracker](https://github.com/jimmy-ai2/Expense-Tracker)
+A simple and responsive web app to help users monitor their financial activity by adding income and expense transactions.
+*   **Impact:** Enables users to monitor income and spending in real time, helping them make better financial decisions.
+*   **Stack:** HTML, JavaScript, CSS.
+
+---
+
+### Professional Focus for 2026
+*   Building high-performance Full-Stack applications.
+*   Integrating AI and automation into business operations.
+*   Contributing to impactful open-source software.
+
+---
+
+### 📫 Let's Collaborate
+I am currently available for freelance projects and technical partnerships.
+
+*   **Instagram:** [@jichegi.dev](https://www.instagram.com/jichegi.dev)
+*   **Portfolio:** [Link to your site]
+*   **Email:** [Your Professional Email]
+*   **LinkedIn:** [Link to your LinkedIn]
+
+---
+![Jimmy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jimmy-ai2&show_icons=true&theme=tokyonight)
