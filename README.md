@@ -15,15 +15,6 @@ I build clean, responsive web applications focused on real-world utility — fro
 ---
 
 ### Featured Projects
-
-#### [Todo App](https://github.com/jimmy-ai2/Todo-app)
-A responsive task management application with real-time filtering and persistent local storage, built to help users stay on top of their daily tasks.
-- **Stack:** JavaScript, HTML, CSS.
-
-#### [Form Validator](https://github.com/jimmy-ai2/form-validator)
-A dynamic registration form with real-time validation logic and styling feedback to guide users and prevent incorrect submissions.
-- **Stack:** JavaScript, HTML, CSS.
-
 #### [Expense Tracker](https://github.com/jimmy-ai2/Expense-Tracker)
 A web app to monitor financial activity by logging income and expense transactions, giving users a real-time view of their finances.
 - **Stack:** JavaScript, HTML, CSS.
@@ -35,10 +26,6 @@ A simple tool that generates fresh color palettes instantly and lets users copy 
 #### [Password Generator](https://github.com/jimmy-ai2/password-generator)
 A responsive web app for generating strong, secure passwords to help users improve their online security.
 - **Stack:** HTML, JavaScript, CSS.
-
-#### [Quiz Game](https://github.com/jimmy-ai2/Quiz-Game)
-An educational tool designed to help beginners test and reinforce their knowledge through a set of defined questions on any topic.
-- **Stack:** JavaScript, HTML, CSS.
 
 ---
 
