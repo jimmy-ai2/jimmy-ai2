@@ -1,44 +1,59 @@
-# Hi, I’m Jimmy 👋 
+# Hi, I'm Jimmy 👋
 
-**Full-Stack Developer | Software Solutions Architect**
+**Frontend Developer | UI & Web App Builder**
 
-I specialize in building scalable web applications and automating business workflows. My focus is on turning complex technical requirements into clean, user-centric digital products. Whether it's a custom management system or a data-driven web app, I build with performance and growth in mind.
+I build clean, responsive web applications focused on real-world utility — from productivity tools to interactive games and developer utilities. My work is grounded in vanilla JavaScript, HTML, and CSS, with a strong eye for user experience and practical functionality.
 
 ---
 
 ### Technical Expertise
 
-*   **Frontend Design:** Responsive Web Design, JavaScript, CSS/HTML.
-*   **Systems & Infrastructure:** Git/GitHub, Project Management (Markdown).
-*   **Key Skills:** Data Structures, System Optimization, Clean Code Principles.
+- **Frontend:** Responsive Web Design, JavaScript (ES6+), HTML5, CSS3.
+- **Core Concepts:** DOM Manipulation, Local Storage, Form Validation, Dynamic UI.
+- **Tools & Workflow:** Git/GitHub, Clean Code Principles, Project Documentation (Markdown).
 
 ---
 
 ### Featured Projects
 
-#### [Password Generator](https://github.com/jimmy-ai2/password-generator)
-A simple and responsive web app for generating strong and secure passwords to help users improve their online security.
-*   **Impact:** Helps users create strong, secure passwords to reduce the risk of account breaches.
-*   **Stack:** HTML, JavaScript, CSS.
+#### [Todo App](https://github.com/jimmy-ai2/Todo-app)
+A responsive task management application with real-time filtering and persistent local storage, built to help users stay on top of their daily tasks.
+- **Stack:** JavaScript, HTML, CSS.
+
+#### [Form Validator](https://github.com/jimmy-ai2/form-validator)
+A dynamic registration form with real-time validation logic and styling feedback to guide users and prevent incorrect submissions.
+- **Stack:** JavaScript, HTML, CSS.
 
 #### [Expense Tracker](https://github.com/jimmy-ai2/Expense-Tracker)
-A simple and responsive web app to help users monitor their financial activity by adding income and expense transactions.
-*   **Impact:** Enables users to monitor income and spending in real time, helping them make better financial decisions.
-*   **Stack:** HTML, JavaScript, CSS.
+A web app to monitor financial activity by logging income and expense transactions, giving users a real-time view of their finances.
+- **Stack:** JavaScript, HTML, CSS.
+
+#### [Color Palette Generator](https://github.com/jimmy-ai2/color-palette-generator)
+A simple tool that generates fresh color palettes instantly and lets users copy Hex codes for use in their own projects.
+- **Stack:** HTML, JavaScript, CSS.
+
+#### [Password Generator](https://github.com/jimmy-ai2/password-generator)
+A responsive web app for generating strong, secure passwords to help users improve their online security.
+- **Stack:** HTML, JavaScript, CSS.
+
+#### [Quiz Game](https://github.com/jimmy-ai2/Quiz-Game)
+An educational tool designed to help beginners test and reinforce their knowledge through a set of defined questions on any topic.
+- **Stack:** JavaScript, HTML, CSS.
 
 ---
 
 ### Professional Focus for 2026
-*   Building high-performance Full-Stack applications.
-*   Integrating AI and automation into business operations.
-*   Contributing to impactful open-source software.
+
+- Deepening JavaScript skills and progressing into full-stack development.
+- Integrating AI and automation into web projects.
+- Contributing to impactful open-source software.
 
 ---
 
 ### 📫 Let's Collaborate
+
 I am currently available for freelance projects and technical partnerships.
 
-*   **Instagram:** [@jichegi.dev](https://www.instagram.com/jichegi.dev)
-*   **Portfolio:** [My Portfolio](https://jimmydev-portfolio.netlify.app/)
-*   **Email:** jithecaptain@gmail.com
-
+- **Instagram:** [@jichegi.dev](https://www.instagram.com/jichegi.dev)
+- **Portfolio:** [My Portfolio](https://jimmydev-portfolio.netlify.app/)
+- **Email:** jithecaptain@gmail.com
