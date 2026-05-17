@@ -1,46 +1,47 @@
-# Hi, I'm Jimmy 👋
+# Hey, I'm Jimmy 👋
 
-**Frontend Developer | UI & Web App Builder**
+**Frontend Developer** · Nairobi, Kenya
 
-I build clean, responsive web applications focused on real-world utility — from productivity tools to interactive games and developer utilities. My work is grounded in vanilla JavaScript, HTML, and CSS, with a strong eye for user experience and practical functionality.
-
----
-
-### Technical Expertise
-
-- **Frontend:** Responsive Web Design, JavaScript (ES6+), HTML5, CSS3.
-- **Core Concepts:** DOM Manipulation, Local Storage, Form Validation, Dynamic UI.
-- **Tools & Workflow:** Git/GitHub, Clean Code Principles, Project Documentation (Markdown).
+I build clean, responsive web apps using vanilla JavaScript, HTML, and CSS.
+Currently levelling up into full-stack — learning Node.js, REST APIs, and React.
 
 ---
 
-### Featured Projects
-#### [Expense Tracker](https://github.com/jimmy-ai2/Expense-Tracker)
-A web app to monitor financial activity by logging income and expense transactions, giving users a real-time view of their finances.
-- **Stack:** JavaScript, HTML, CSS.
+### 🛠️ What I Work With
 
-#### [Color Palette Generator](https://github.com/jimmy-ai2/color-palette-generator)
-A simple tool that generates fresh color palettes instantly and lets users copy Hex codes for use in their own projects.
-- **Stack:** HTML, JavaScript, CSS.
-
-#### [Password Generator](https://github.com/jimmy-ai2/password-generator)
-A responsive web app for generating strong, secure passwords to help users improve their online security.
-- **Stack:** HTML, JavaScript, CSS.
+| Now | Learning |
+|-----|----------|
+| JavaScript (ES6+) | Node.js |
+| HTML5 & CSS3 | REST APIs |
+| DOM Manipulation | React |
+| LocalStorage API | Python for Data |
+| Git & GitHub | DSA |
 
 ---
 
-### Professional Focus for 2026
+### 🚀 Featured Projects
 
-- Deepening JavaScript skills and progressing into full-stack development.
-- Integrating AI and automation into web projects.
-- Contributing to impactful open-source software.
+| Project | What it does |
+|---------|-------------|
+| [Expense Tracker](https://github.com/jimmy-ai2/Expense-Tracker) | Tracks income and expenses in real time using LocalStorage |
+| [Color Palette Generator](https://github.com/jimmy-ai2/color-palette-generator) | Generates fresh color palettes with one-click hex code copying |
+| [Password Generator](https://github.com/jimmy-ai2/password-generator) | Builds strong, secure passwords with custom character controls |
+| [Form Validator](https://github.com/jimmy-ai2/form-validator) | Real-time form validation with dynamic error styling |
+| [Todo App](https://github.com/jimmy-ai2/Todo-app) | Task manager with filtering and persistent LocalStorage |
+| [Quiz Game](https://github.com/jimmy-ai2/Quiz-Game) | Interactive quiz tool with instant scoring and feedback |
 
 ---
 
-### 📫 Let's Collaborate
+### 📌 2026 Focus
 
-I am currently available for freelance projects and technical partnerships.
+- Ship a full-stack project with a real backend and database
+- Build and consume my first REST API
+- Start contributing to open source
 
-- **Instagram:** [@jichegi.dev](https://www.instagram.com/jichegi.dev)
-- **Portfolio:** [My Portfolio](https://jimmydev-portfolio.netlify.app/)
+---
+
+### 📫 Let's Talk
+
+- **Portfolio:** [jimmydev-portfolio.netlify.app](https://jimmydev-portfolio.netlify.app/)
 - **Email:** jithecaptain@gmail.com
+- **Instagram:** [@jichegi.dev](https://www.instagram.com/jichegi.dev)
