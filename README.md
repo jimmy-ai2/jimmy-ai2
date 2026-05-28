@@ -23,12 +23,12 @@ Currently levelling up into full-stack — learning Node.js, REST APIs, and Reac
 
 | Project | What it does |
 |---------|-------------|
+| [Compound Interest Calculator](https://github.com/jimmy-ai2/compound-interest-calculator) | Computes the future value of an investment using the full compound interest formula |
+| [Weather App](https://github.com/jimmy-ai2/Weather-app) | A minimal weather dashboard that delivers real-time conditions for any city worldwide. |
 | [Expense Tracker](https://github.com/jimmy-ai2/Expense-Tracker) | Tracks income and expenses in real time using LocalStorage |
 | [Color Palette Generator](https://github.com/jimmy-ai2/color-palette-generator) | Generates fresh color palettes with one-click hex code copying |
 | [Password Generator](https://github.com/jimmy-ai2/password-generator) | Builds strong, secure passwords with custom character controls |
-| [Form Validator](https://github.com/jimmy-ai2/form-validator) | Real-time form validation with dynamic error styling |
 | [Todo App](https://github.com/jimmy-ai2/Todo-app) | Task manager with filtering and persistent LocalStorage |
-| [Quiz Game](https://github.com/jimmy-ai2/Quiz-Game) | Interactive quiz tool with instant scoring and feedback |
 
 ---
 
@@ -42,6 +42,6 @@ Currently levelling up into full-stack — learning Node.js, REST APIs, and Reac
 
 ### 📫 Let's Talk
 
-- **Portfolio:** [jimmydev-portfolio.netlify.app](https://jimmydev-portfolio.netlify.app/)
+- **Portfolio:** [My Portfolio](https://jimmydev-portfolio.netlify.app/)
 - **Email:** jithecaptain@gmail.com
 - **Instagram:** [@jichegi.dev](https://www.instagram.com/jichegi.dev)
