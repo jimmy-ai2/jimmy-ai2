@@ -24,21 +24,14 @@ Currently levelling up into full-stack — learning Node.js, REST APIs, and Reac
 | Project | What it does |
 |---------|-------------|
 | [Compound Interest Calculator](https://github.com/jimmy-ai2/compound-interest-calculator) | Computes the future value of an investment using the full compound interest formula |
-| [Weather App](https://github.com/jimmy-ai2/Weather-app) | A minimal weather dashboard that delivers real-time conditions for any city worldwide. |
-| [Expense Tracker](https://github.com/jimmy-ai2/Expense-Tracker) | Tracks income and expenses in real time using LocalStorage |
-| [Color Palette Generator](https://github.com/jimmy-ai2/color-palette-generator) | Generates fresh color palettes with one-click hex code copying |
+| [[Pig-Dice-Game](https://github.com/jimmy-ai2/Pig-Dice-Game) | A command-line implementation of the classic dice game Pig. |
+| [Weather App](https://github.com/jimmy-ai2/Weather-app) | Generates fresh color palettes with one-click hex code copying |
+| [Adventure Game](https://github.com/jimmy-ai2/Adventure-Game) | A branching command-line adventure game where every choice leads to a different outcome. |
 | [Password Generator](https://github.com/jimmy-ai2/password-generator) | Builds strong, secure passwords with custom character controls |
-| [Todo App](https://github.com/jimmy-ai2/Todo-app) | Task manager with filtering and persistent LocalStorage |
+| [Expense Tracker](https://github.com/jimmy-ai2/Expense-Tracker) | Tracks income and expenses in real time using LocalStorage |
 
 ---
 
-### 📌 2026 Focus
-
-- Ship a full-stack project with a real backend and database
-- Build and consume my first REST API
-- Start contributing to open source
-
----
 
 ### 📫 Let's Talk
 
