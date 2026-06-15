@@ -24,7 +24,7 @@ Currently levelling up into full-stack — learning Node.js, REST APIs, and Reac
 | Project | What it does |
 |---------|-------------|
 | [Compound Interest Calculator](https://github.com/jimmy-ai2/compound-interest-calculator) | Computes the future value of an investment using the full compound interest formula |
-| [[Pig-Dice-Game](https://github.com/jimmy-ai2/Pig-Dice-Game) | A command-line implementation of the classic dice game Pig. |
+| [Pig-Dice-Game](https://github.com/jimmy-ai2/Pig-Dice-Game) | A command-line implementation of the classic dice game Pig. |
 | [Weather App](https://github.com/jimmy-ai2/Weather-app) | Generates fresh color palettes with one-click hex code copying |
 | [Adventure Game](https://github.com/jimmy-ai2/Adventure-Game) | A branching command-line adventure game where every choice leads to a different outcome. |
 | [Password Generator](https://github.com/jimmy-ai2/password-generator) | Builds strong, secure passwords with custom character controls |
