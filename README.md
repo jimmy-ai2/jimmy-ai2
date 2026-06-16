@@ -24,6 +24,7 @@ Currently levelling up into full-stack — learning Node.js, REST APIs, and Reac
 | Project | Stack | What it does |
 |---------|-------|-------------|
 | [Compound Interest Calculator](https://github.com/jimmy-ai2/compound-interest-calculator) | JS | Computes the future value of an investment using the full compound interest formula |
+| [World-Cup-Tracker](https://github.com/jimmy-ai2/world-cup-tracker) | JS | An interactive, real-time group stage tracker for the FIFA World Cup 2026 that displays all 48 teams across 12 groups with instant advancement prediction |
 | [Weather App](https://github.com/jimmy-ai2/Weather-app) | JS | Fetches and displays real-time weather data for any city |
 | [Expense Tracker](https://github.com/jimmy-ai2/Expense-Tracker) | JS | Tracks income and expenses in real time using LocalStorage |
 | [Password Generator](https://github.com/jimmy-ai2/password-generator) | JS | Builds strong, secure passwords with custom character controls |
